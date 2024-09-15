@@ -1,4 +1,4 @@
-# Inicio del juego Mario Bros rescatando a la princesa
+ # Inicio del juego Mario Bros rescatando a la princesa
 
 print("\n" + "="*40)
 print(" " * 10 + "Bienvenido a Mario Bros")
